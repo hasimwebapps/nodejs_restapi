@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasimwebapps/nodejs_restapi.git"
+  },
+  "author": "Hasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasimwebapps/nodejs_restapi/issues"
+  },
+  "homepage": "https://github.com/hasimwebapps/nodejs_restapi#readme"
+}
